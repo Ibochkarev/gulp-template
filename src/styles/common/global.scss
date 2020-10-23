@@ -1,4 +1,4 @@
-@import "../../local_modules/normalize.css/normalize";
+@import '../../local_modules/normalize.css/normalize';
 
 *,
 *::before,
@@ -11,6 +11,7 @@ html {
 }
 
 body {
+    font-family: 'Lato-Regular';
     margin: 0;
 }
 

@@ -6,7 +6,7 @@
     {
       "files": [ "src/**/*.js" ],
       "extends": [
-        "standard",
+        // "standard",
         "htmlacademy/es6"
       ],
       "rules": {
